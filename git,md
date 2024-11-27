@@ -1,0 +1,11 @@
+sabe la diferencia entre un repositorio de proyectos y un software de control de versiones¨? explique brevemente max 4 lineas. (2 pts)
+Un repositorio de proyectos es un lugar o almacenamiento donde se guarda el código fuente y otros archivos relacionados con un proyecto. Este repositorio puede ser local (en una computadora
+que es git y para que sirve? (2 pts)
+Git es un sistema distribuido, lo que significa que cada desarrollador tiene una copia completa del historial del proyecto en su propio equipo. Esto permite trabajar de forma local, incluso sin conexión a Internet, y luego sincronizar los cambios con otros desarrolladores cuando sea necesario
+que otro programa de control de versiones conoce mencione 2 (2 pts)
+Subversion es ideal para equipos que prefieren un modelo centralizado o que ya están acostumbrados a trabajar con sistemas centralizados.
+Mercurial es una buena alternativa si se busca algo más fácil de usar que Git pero que aún mantenga características de un sistema distribuido.
+Perforce es muy adecuado para proyectos grandes, especialmente aquellos que manejan archivos binarios pesados (como videojuegos).
+Bazaar es menos común pero podría ser útil para ciertos proyectos de código abierto que se integran con Launchpad
+que es github y para que sirve? (2 pts)
+GitHub es una plataforma en línea que se utiliza principalmente para almacenar, gestionar y colaborar en proyectos de software. Está basada en Git, un sistema de control de versiones que permite hacer un seguimiento de los cambios en el código fuente a lo largo del tiempo.
